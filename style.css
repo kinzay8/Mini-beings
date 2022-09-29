@@ -1,0 +1,83 @@
+.nav{
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    /* font-weight: bolder; */
+    /* font-size: 10px; */
+}
+.h1{
+    height: 130px;
+    /* background-color: palevioletred; */
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+h1{
+    padding-top: 6px;
+}
+.products{
+    display: flex;
+    height: 300px;
+}
+.products1{
+    /* background-color: cadetblue; */
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 90px;
+}
+.products2{
+    /* background-color: chocolate; */
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 90px;
+}
+.a{
+    height: 300px;
+    width: 350px;
+}
+.name{
+    position: relative;
+    top: 300px;
+
+}
+.pr{
+    color: red;
+}
+.a{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 8px 10px 11px 6px grey;
+    border-radius: 4px;
+}
+.footer{
+    height: 300px;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 18px;
+    color:teal;
+}
+.right{
+    padding-top: 80px;
+    /* padding-left: 150px; */
+}
+.left{
+    padding-top: 80px;
+    /* padding-left: 600px; */
+}
+.about{
+    color: teal;
+}
